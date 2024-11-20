@@ -1,0 +1,17 @@
+/home/fae/worldgen/.godot/mono/temp/bin/Debug/WorldGen.deps.json
+/home/fae/worldgen/.godot/mono/temp/bin/Debug/WorldGen.runtimeconfig.json
+/home/fae/worldgen/.godot/mono/temp/bin/Debug/WorldGen.dll
+/home/fae/worldgen/.godot/mono/temp/bin/Debug/WorldGen.pdb
+/home/fae/worldgen/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/fae/worldgen/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/fae/worldgen/.godot/mono/temp/obj/Debug/WorldGen.csproj.AssemblyReference.cache
+/home/fae/worldgen/.godot/mono/temp/obj/Debug/WorldGen.GeneratedMSBuildEditorConfig.editorconfig
+/home/fae/worldgen/.godot/mono/temp/obj/Debug/WorldGen.AssemblyInfoInputs.cache
+/home/fae/worldgen/.godot/mono/temp/obj/Debug/WorldGen.AssemblyInfo.cs
+/home/fae/worldgen/.godot/mono/temp/obj/Debug/WorldGen.csproj.CoreCompileInputs.cache
+/home/fae/worldgen/.godot/mono/temp/obj/Debug/WorldGen.csproj.CopyComplete
+/home/fae/worldgen/.godot/mono/temp/obj/Debug/WorldGen.dll
+/home/fae/worldgen/.godot/mono/temp/obj/Debug/refint/WorldGen.dll
+/home/fae/worldgen/.godot/mono/temp/obj/Debug/WorldGen.pdb
+/home/fae/worldgen/.godot/mono/temp/obj/Debug/WorldGen.genruntimeconfig.cache
+/home/fae/worldgen/.godot/mono/temp/obj/Debug/ref/WorldGen.dll

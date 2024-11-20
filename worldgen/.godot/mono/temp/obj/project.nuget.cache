@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kv0AYlUz9bxbVvmQnZBBkPuQ8p8+j48VmzuNRi8p9lO+lGue7WueHJiQXdJhNDm/FhjvZbeJZwXr7unRWaY+Nw==",
+  "success": true,
+  "projectFilePath": "/home/fae/worldgen/WorldGen.csproj",
+  "expectedPackageFiles": [
+    "/home/fae/.nuget/packages/godot.sourcegenerators/4.3.0/godot.sourcegenerators.4.3.0.nupkg.sha512",
+    "/home/fae/.nuget/packages/godotsharp/4.3.0/godotsharp.4.3.0.nupkg.sha512",
+    "/home/fae/.nuget/packages/godotsharpeditor/4.3.0/godotsharpeditor.4.3.0.nupkg.sha512",
+    "/home/fae/.nuget/packages/microsoft.netcore.app.ref/6.0.35/microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "/home/fae/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.35/microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}
