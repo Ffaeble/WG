@@ -1,2 +1,2 @@
-﻿46277
-/usr/lib/godot-mono/godot.linuxbsd.editor.x86_64.mono
+﻿57901
+C:/Users/3691202/OneDrive - CBW College Berufliche Weiterbildung GmbH/Desktop/Godot_v4.3-stable_mono_win64/Godot_v4.3-stable_mono_win64.exe

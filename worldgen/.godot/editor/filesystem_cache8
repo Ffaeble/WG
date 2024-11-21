@@ -1,9 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1732129619
-map_gen.tscn::PackedScene::5239161038655724883::1732129458::0::1::::<><>::uid://cpa3rrgquea3t::::res://tilesets/dirt.png<>uid://cvwyeswt08ou6::::res://tilesets/stone.png
-::res://scenes/::1732129615
-::res://scripts/::1732129619
-MapGen.cs::CSharpScript::-1::1732129543::0::1::::<><>::
-::res://tilesets/::1732127295
-dirt.png::CompressedTexture2D::5827405359170162731::1732126674::1732126674::1::::<><>::
-stone.png::CompressedTexture2D::6293688725680207095::1732126662::1732126662::1::::<><>::
+::res://::1732176669
+::res://scenes/::1732176648
+map_gen.tscn::PackedScene::5239161038655724883::1732176648::0::1::::<><>::res://scripts/MapGen.cs<>uid://cvwyeswt08ou6::::res://tilesets/stone.png<>uid://cpa3rrgquea3t::::res://tilesets/dirt.png
+::res://scripts/::1732176648
+MapGen.cs::CSharpScript::-1::1732176648::0::1::::<>Node2D<>::
+::res://tilesets/::1732176648
+dirt.png::CompressedTexture2D::5827405359170162731::1732176648::1732176671::1::::<><>::
+stone.png::CompressedTexture2D::6293688725680207095::1732176648::1732176671::1::::<><>::
